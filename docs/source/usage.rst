@@ -3,7 +3,10 @@ Usage
 
 .. _installation:
 
+try:BLABLABLA
+
 Before installing
+
 ------------
 
 We should read the docs.
