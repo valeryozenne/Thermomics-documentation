@@ -5,6 +5,8 @@ Usage
 
 try:BLABLABLA
 
+and: BLIBLIBLI
+
 Before installing
 
 ------------
